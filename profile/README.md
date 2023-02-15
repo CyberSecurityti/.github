@@ -6,10 +6,10 @@
 <p>  Cyber Security Community é uma comunidade aberta ao público, aonde nosso foco principal é desenvolver um grupo unido para trabalhar-mos juntos na qualificação profissional de todos os envolvidos, damos suporte para os iniciantes na área de TI e SI e ajudamos com dicas, tirando suas dúvidas e guiando todos para que possam um dia se tornar um desenvolvedor de sucesso ou um pentester destacado no meio de todos os outros! Curtiu nossa proposta? Nossos links de entrada para a comunidade:</p>
 
 ****
-<p align="center"><a href='https://www.youtube.com/channel/UCo1pa7BUPc8oMX-tBOVO-1A'><img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt='youtube link'/></a></p>
+<p align="center"><a href='https://youtube.com/@CyberSecurity77'><img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white' alt='youtube link'/></a></p>
 <p align="center"
     ><a href='https://github.com/CyberSecurityti/'><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github link'/></a>
-<a href='https://chat.whatsapp.com/ESoSKoVRGg93GROSfgOrUz'><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt='WhatsApplink' height=30px/></a>
+<a href='https://chat.whatsapp.com/H8XSxoAKzYyKYvbuEkWNVo'><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' alt='WhatsApplink' height=30px/></a>
 </p>
 
 <p align="center"
